@@ -24,6 +24,7 @@ Score - rating between 1 and 5
 Time - timestamp for the review
 Summary - brief summary of the review
 Text - text of the review
+
 Objective:
 Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
 
