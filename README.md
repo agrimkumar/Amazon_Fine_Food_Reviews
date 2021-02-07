@@ -1,4 +1,4 @@
-# Amazone Fine Food Reviews Dataset.
+# Amazon Fine Food Reviews Dataset.
 Amazon Fine Food Reviews Analysis
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
